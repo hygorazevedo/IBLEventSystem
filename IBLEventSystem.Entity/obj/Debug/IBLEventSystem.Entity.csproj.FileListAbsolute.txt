@@ -1,0 +1,12 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\obj\Debug\IBLEventSystem.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\IBLEventSystem.Entity.dll.config
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\IBLEventSystem.Entity.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\IBLEventSystem.Entity.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\IBLEventSystem.Modelo.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\IBLEventSystem.Modelo.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\obj\Debug\IBLEventSystem.Entity.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\IBLEventSystem\IBLEventSystem.Entity\obj\Debug\IBLEventSystem.Entity.pdb

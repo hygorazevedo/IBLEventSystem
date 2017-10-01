@@ -1,0 +1,7 @@
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\bin\Debug\IBLEventSystem.Domain.dll
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\bin\Debug\IBLEventSystem.Domain.pdb
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\bin\Debug\IBLEventSystem.Adapter.dll
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\bin\Debug\IBLEventSystem.Adapter.pdb
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\obj\Debug\IBLEventSystem.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\obj\Debug\IBLEventSystem.Domain.dll
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Domain\obj\Debug\IBLEventSystem.Domain.pdb

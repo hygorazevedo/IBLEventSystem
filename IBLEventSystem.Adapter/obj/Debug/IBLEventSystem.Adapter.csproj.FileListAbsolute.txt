@@ -1,0 +1,4 @@
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Adapter\bin\Debug\IBLEventSystem.Adapter.dll
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Adapter\bin\Debug\IBLEventSystem.Adapter.pdb
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Adapter\obj\Debug\IBLEventSystem.Adapter.dll
+C:\Users\Hygor de Lima\documents\visual studio 2017\Projects\IBLEventSystem\IBLEventSystem.Adapter\obj\Debug\IBLEventSystem.Adapter.pdb
